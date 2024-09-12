@@ -27,8 +27,8 @@ End-to-end testing is not conducted on these modules, as they are individual com
 - provision Databricks cluster policies with ease using Terraform
 - utilization of Terratest for robust validation
 - set permissions for a Databricks cluster policy
-- dynamically retrieve and set the cluster node type for the cluster driver by utilizing the node type data resource with specific query parameters
-- dynamically retrieve and set the cluster runtime version using the spark version data resource with specific query parameters
+- support for custom policy definition
+- support for family policy with overrides
 
 ## Requirements
 
