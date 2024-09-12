@@ -49,6 +49,7 @@ End-to-end testing is not conducted on these modules, as they are individual com
 | Name | Type |
 | :-- | :-- |
 | [databricks_cluster_policy](https://registry.terraform.io/providers/databricks/databricks/latest/docs/resources/cluster_policy) | resource |
+| [databricks_cluster_policy](https://registry.terraform.io/providers/databricks/databricks/latest/docs/data-sources/cluster_policy) | data source |
 | [databricks_permissions](https://registry.terraform.io/providers/databricks/databricks/latest/docs/resources/permissions) | resource |
 
 
