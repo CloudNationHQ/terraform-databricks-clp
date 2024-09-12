@@ -1,4 +1,4 @@
-module github.com/cloudnationhq/terraform-databricks-clp/shared
+module github.com/cloudnationhq/terraform-databricks-clp
 
 go 1.23.1
 
